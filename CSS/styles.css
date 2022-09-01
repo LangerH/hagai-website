@@ -80,13 +80,13 @@ a{
 .top-cloud {
   position: absolute;
   right: 100px;
-  top: 100px;
+  top: 130px;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 150px;
-  top: 400px;
+  top: 430px;
 }
 
 .skill-row {
